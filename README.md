@@ -1,5 +1,6 @@
 Automated-Python-script-to-organize-downloads-folder
 📁 📂 -> 🗃️
+
 Description:
 - This script will first list all of the files and place them in folders based on their extensions, such as ".pdf" which will be placed in the PDFs folder, and so on for all of the files.
 - Finally, all of the files will be placed in their proper directories.
