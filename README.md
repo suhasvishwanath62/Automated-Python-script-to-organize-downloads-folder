@@ -13,6 +13,6 @@ Procedure to follow:
 - Finally, each file will be placed in its own folder.
 
 Procedure to execute:
-- Navigate to the Script Location - cd C:\Path\To\Your\Script
-- Run the Script in cmd/Terminal - python file_name.py
+- Navigate to the Script Location - (cd C:\Path\To\Your\Script)
+- Run the Script in cmd/Terminal - (python file_name.py)
 - Check your Downloads folder 📂 All your files will be organized.
