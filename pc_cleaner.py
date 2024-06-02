@@ -19,7 +19,7 @@ def move_files(folder_name, files):
 
 # Driver function
 if __name__ == "__main__":
-    path = r"C:\Users\Suhas\Downloads"
+    path = r"C:\Path\To\Your\Script"
     os.chdir(path)  # Jump to the directory where all the files present
     all_files = os.listdir()  # List all the files of the directory
     for i in range(len(all_files)):
