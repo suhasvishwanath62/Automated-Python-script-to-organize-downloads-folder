@@ -1,5 +1,5 @@
 Automated-Python-script-to-organize-downloads-folder
-📁 📂 -> 🗃️
+`📁 📂 -> 🗃️`
 
 Description:
 - This script will first list all of the files and place them in folders based on their extensions, such as ".pdf" which will be placed in the PDFs folder, and so on for all of the files.
@@ -13,6 +13,6 @@ Procedure to follow:
 - Finally, each file will be placed in its own folder.
 
 Procedure to execute:
-- Navigate to the Script Location - (cd C:\Path\To\Your\Script)
-- Run the Script in cmd/Terminal - (python file_name.py)
+- Navigate to the Script Location - `cd C:\Path\To\Your\Script`
+- Run the Script in cmd/Terminal - `python file_name.py`
 - Check your Downloads folder 📂 All your files will be organized.
